@@ -1,16 +1,21 @@
-## Hi there 👋
+🚀 Papa Ababacar Sadikh Thiam
 
-<!--
-**MitsuSDK/MitsuSDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer in the Making — Machine Learning & LLM Systems
 
-Here are some ideas to get you started:
+The world is getting reshaped, and I shall be the one with the tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+I am an engineering student specializing in Artificial Intelligence and Big Data.
+
+🛠️ Tech Stack
+
+Python (primary), Java, C
+
+Pandas, NumPy, scikit-learn, SQL
+
+SentenceTransformers, RAG pipelines, prompt engineering
+
+Git, GitHub, VS Code, Jupyter Notebook
+
+📫 If you want to connect or collaborate, feel free to reach out.
